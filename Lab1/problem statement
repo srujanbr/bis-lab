@@ -1,0 +1,1 @@
+Given $n$ city coordinates, evolve a population of candidate route permutations to:Minimize global tour distance through evolutionary operators.Maintain population diversity using ordered crossover (OX) and swap mutation.Preserve superior traits across generations via elitism.
