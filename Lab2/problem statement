@@ -1,0 +1,1 @@
+Given $n$ cities with coordinate locations, find an optimal tour (Hamiltonian cycle) that:Minimizes the total travel distance of the route.Visits every city exactly once and returns to the origin.Prevents early stagnation using pheromone evaporation and positive feedback loops.
